@@ -6,6 +6,7 @@ Language Data collections for ClothUtility
 - 한국어 Korean (tree/main)
 - [日本語 Japanese](../tree/日本語) (tree/日本語)
 - [中文 Chinese](../tree/中文) (tree/中文)
+- [Français French](../tree/Français) (tree/Français)
 
 
 ## How to contribute to translation?
