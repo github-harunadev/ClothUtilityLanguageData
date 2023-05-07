@@ -183,5 +183,6 @@
     "version": "バージョン ",
     "visit_page": "ページ訪問",
     "warning": "注意",
-    "yes_update": "新しいアップデートの発見"
+    "yes_update": "新しいアップデートの発見",
+    "not_a_proper_avatar": "選択したアバターが適切なアバターではありません。"
 }
