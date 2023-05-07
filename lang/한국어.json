@@ -189,6 +189,6 @@
     "show_pairs_bone_name": "본 이름",
     "show_pairs_cloth_bone": "옷 본",
     "show_pairs_avatar_bone": "아바타 본",
-    "do_not_put_avatar_bone_to_cloth_bone": "데이터를 바꿀 수 없습니다",
+    "do_not_put_avatar_bone_to_cloth_bone": "본을 바꿀 수 없습니다",
     "do_not_put_avatar_bone_to_cloth_bone_msg": "지금 넣으려고 하는 본은 아바타의 Armature 안에 있는 본입니다. 이것은 허용되지 않습니다!"
 }
