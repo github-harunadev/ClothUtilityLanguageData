@@ -183,5 +183,6 @@
     "version": "버전 ",
     "visit_page": "페이지 방문",
     "warning": "주의",
-    "yes_update": "신 버전 출시됨"
+    "yes_update": "신 버전 출시됨",
+    "not_a_proper_avatar": "선택한 아바타는 잘못된 아바타입니다."
 }
