@@ -183,5 +183,6 @@
     "version": "Version ",
     "visit_page": "Visit Page",
     "warning": "Warning",
-    "yes_update": "Update found"
+    "yes_update": "Update found",
+    "not_a_proper_avatar": "The selected avatar is not a proper avatar."
 }
