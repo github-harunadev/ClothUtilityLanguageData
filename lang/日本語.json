@@ -66,7 +66,7 @@
     "cloth_combiner_selection_error": "2つ以上の服を選択してください。",
     "cloth_count_low": "自動クローゼット作成は、服が 2 つ以上あるアバターでのみ可能です。",
     "clothutility_corrupt": "ClothUtilityのボーン探しアルゴリズムに問題が発生したようです。 ClothUtilityウィンドウを閉じて、もう一度開いてください。",
-    "combine_armature": "Armature 合置",
+    "combine_armature": "Armature合置",
     "combine_selected_clothes": "服合する",
     "combined_armature_warning": "この服はいくつかのArmatureがあります。 複数のArmatureを1つにまとめなければなりません。",
     "combined_cloth_collection_0": "<color=#fff><b>合わさった服</b>",
