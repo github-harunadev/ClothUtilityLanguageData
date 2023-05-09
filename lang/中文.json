@@ -5,7 +5,7 @@
     "acc_toggle_button_icon_path": "ExMenu按钮图标路径",
     "acc_toggle_button_name": "ExMenu按钮名称",
     "acc_toggle_default_state": "默认状态",
-    "acc_toggle_invert_on_off": "反选状态", //
+    "acc_toggle_invert_on_off": "反选状态", 
     "acc_toggle_no_blendshape": "所选SkinnedMeshRenderer不含有任何blendshape！",
     "acc_toggle_object_type": "对象类型",
     "acc_toggle_object_type_go": "GameObject (ON <-> OFF)",
