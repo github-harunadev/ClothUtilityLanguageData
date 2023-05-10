@@ -2,11 +2,11 @@
 Language Data collections for ClothUtility
 
 ## Ongoing branches
-- English
-- 한국어 Korean
-- 日本語 Japanese
-- 中文 Chinese
-- Français French
+- English (Added)
+- 한국어 Korean (Added)
+- 日本語 Japanese (Added)
+- 中文 Chinese (Added, Pending)
+- Français French (Working)
 
 
 ## How to contribute to translation?
