@@ -193,6 +193,6 @@
     "do_not_put_avatar_bone_to_cloth_bone_msg": "The bone you're trying to put is originally located inside target avatar's Armature. This is not allowed!",
     "blendshape_autogenerate_warning": "Following blendshape animations will be additionally auto generated:\n",
     "select_load_method_new_msg": "From avatar - Load config from avatar (from version 2.11)\nFrom file - Load config from file (before version 2.11)",
-    "do_not_put_avatar_bone_to_cloth_bone_msg": "From avatar",
-    "do_not_put_avatar_bone_to_cloth_bone_msg": "From file"
+    "select_load_method_fromavatar": "From avatar",
+    "select_load_method_fromfile": "From file"
 }
