@@ -193,6 +193,6 @@
     "do_not_put_avatar_bone_to_cloth_bone_msg": "지금 넣으려고 하는 본은 아바타의 Armature 안에 있는 본입니다. 이것은 허용되지 않습니다!",
     "blendshape_autogenerate_warning": "아래 쉐이프키 애니메이션이 추가로 자동생성됩니다:\n",
     "select_load_method_new_msg": "아바타 - 아바타로부터 설정값을 가져옵니다. (버전 2.11 이후)\n파일 - 파일로부터 설정값을 가져옵니다. (버전 2.11 이전)",
-    "do_not_put_avatar_bone_to_cloth_bone_msg": "아바타",
-    "do_not_put_avatar_bone_to_cloth_bone_msg": "파일"
+    "select_load_method_fromavatar": "아바타",
+    "select_load_method_fromfile": "파일"
 }
