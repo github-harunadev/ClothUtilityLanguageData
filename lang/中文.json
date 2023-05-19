@@ -192,6 +192,6 @@
     "do_not_put_avatar_bone_to_cloth_bone": "无法改变骨骼",
     "do_not_put_avatar_bone_to_cloth_bone_msg": "正在试图放入的骨骼位于角色的Armature内。这是不允许的！",
     "select_load_method_new_msg": "From avatar - Load config from avatar (from version 2.11)\nFrom file - Load config from file (before version 2.11)",
-    "do_not_put_avatar_bone_to_cloth_bone_msg": "From avatar",
-    "do_not_put_avatar_bone_to_cloth_bone_msg": "From file"
+    "select_load_method_fromavatar": "From avatar",
+    "select_load_method_fromfile": "From file"
 }
