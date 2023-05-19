@@ -191,5 +191,8 @@
     "show_pairs_avatar_bone": "アバター ボーン",
     "do_not_put_avatar_bone_to_cloth_bone": "ボーン変更不可",
     "do_not_put_avatar_bone_to_cloth_bone_msg": "今入れようとしているボーンはアバターのArmatureにあるボーンです。 これは許されません！",
-    "blendshape_autogenerate_warning": "下のシェイプキーアニメーションが追加で自動生成されます:\n"
+    "blendshape_autogenerate_warning": "下のシェイプキーアニメーションが追加で自動生成されます:\n",
+    "select_load_method_new_msg": "アバター - アバターから設定値を取得します。(バージョン2.11以降)\nファイル - ファイルから設定値を取得します。(バージョン2.11以前)",
+    "do_not_put_avatar_bone_to_cloth_bone_msg": "アバター",
+    "do_not_put_avatar_bone_to_cloth_bone_msg": "ファイル"
 }
