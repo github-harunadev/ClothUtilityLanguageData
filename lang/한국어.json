@@ -194,5 +194,9 @@
     "blendshape_autogenerate_warning": "아래 쉐이프키 애니메이션이 추가로 자동생성됩니다:\n",
     "select_load_method_new_msg": "아바타 - 아바타로부터 설정값을 가져옵니다. (버전 2.11 이후)\n파일 - 파일로부터 설정값을 가져옵니다. (버전 2.11 이전)",
     "select_load_method_fromavatar": "아바타",
-    "select_load_method_fromfile": "파일"
+    "select_load_method_fromfile": "파일",
+    "missing_script_error": "이 옷에는 존재하지 않는 컴포넌트/스크립트가 있습니다. 이 문제를 해결하지 않을 경우 아바타 업로드가 되지 않을 수 있습니다. 만약 프로젝트에 다이나믹 본이 없다면, 이 존재하지 않는 컴포넌트는 다이나믹 본일 가능성이 높습니다. 유의해서 제거해주세요.",
+    "missing_script_error_button": "존재하지 않는 컴포넌트 삭제",
+    "constraint_empty_error": "이 옷에는 Sources가 비어있는 Constraint가 있습니다. 이 문제를 해결하지 않을 경우, 옷을 압혔을 때 옷의 본이 전부 이상한 위치로 이동될 가능성이 높습니다. Constraint를 제거하는것을 추천합니다.",
+    "constraint_empty_error_button": "Constraint 삭제"
 }
