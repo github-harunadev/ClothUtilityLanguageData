@@ -194,5 +194,9 @@
     "blendshape_autogenerate_warning": "下のシェイプキーアニメーションが追加で自動生成されます:\n",
     "select_load_method_new_msg": "アバター - アバターから設定値を取得します。(バージョン2.11以降)\nファイル - ファイルから設定値を取得します。(バージョン2.11以前)",
     "select_load_method_fromavatar": "アバター",
-    "select_load_method_fromfile": "ファイル"
+    "select_load_method_fromfile": "ファイル",
+    "missing_script_error": "この服には存在しないComponentがあります。 この問題を解決しない場合、アバターはアップロードされない可能性があります。 もしプロジェクトにDynamic Boneがない場合、この存在しないComponentはDynamic Boneである可能性が高いです。 注意して除去してください。",
+    "missing_script_error_button": "存在しないComponent削除",
+    "constraint_empty_error": "この服には異常に設定されたConstraintがあります。 この問題を解決しない場合、服を着せたときに服のボーンがすべて変な位置に移動する可能性が高いです。 Constraintを除去することをお勧めします。",
+    "constraint_empty_error_button": "Constraint削除"
 }
