@@ -194,5 +194,9 @@
     "blendshape_autogenerate_warning": "Following blendshape animations will be additionally auto generated:\n",
     "select_load_method_new_msg": "From avatar - Load config from avatar (from version 2.11)\nFrom file - Load config from file (before version 2.11)",
     "select_load_method_fromavatar": "From avatar",
-    "select_load_method_fromfile": "From file"
+    "select_load_method_fromfile": "From file",
+    "missing_script_error": "This cloth contains some bones that refers to missing components. This can block avatar from being uploaded on VRChat. This missing component could possibiliy be Dynamic Bone, if you don't have in your project. Please check before removing all the missing components.",
+    "missing_script_error_button": "Remove all missing components",
+    "constraint_empty_error": "This cloth contains some bones that has empty but active constraints, and these can create conflicts after applying target cloth.",
+    "constraint_empty_error_button": "Remove empty constraints"
 }
