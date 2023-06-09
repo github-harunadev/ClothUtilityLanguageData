@@ -198,5 +198,8 @@
     "missing_script_error": "この服には存在しないComponentがあります。 この問題を解決しない場合、アバターはアップロードされない可能性があります。 もしプロジェクトにDynamic Boneがない場合、この存在しないComponentはDynamic Boneである可能性が高いです。 注意して直接除去してください。",
     "missing_script_error_button": "存在しないComponentを全部選択",
     "constraint_empty_error": "この服には異常に設定されたConstraintがあります。 この問題を解決しない場合、服を着せたときに服のボーンがすべて変な位置に移動する可能性が高いです。 Constraintを除去することをお勧めします。",
-    "constraint_empty_error_button": "Constraint削除"
+    "constraint_empty_error_button": "Constraint削除",
+    "autocloset_writedefaults": "Write Defaults適用",
+    "loaded_success": "設定ロード成功",
+    "saved_success": "設定保存成功"
 }
