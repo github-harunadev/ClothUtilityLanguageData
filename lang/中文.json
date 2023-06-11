@@ -200,5 +200,6 @@
     "constraint_empty_error_button": "Remove empty constraints",
     "autocloset_writedefaults": "Enable Write Defaults",
     "loaded_success": "Successfully loaded",
-    "saved_success": "Successfully saved"
+    "saved_success": "Successfully saved",
+    "play_mode_warning": "Playmode detected! Please exit playmode to use ClothUtility."
 }
