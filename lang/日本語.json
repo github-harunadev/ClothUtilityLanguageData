@@ -195,11 +195,12 @@
     "select_load_method_new_msg": "アバター - アバターから設定値を取得します。(バージョン2.11以降)\nファイル - ファイルから設定値を取得します。(バージョン2.11以前)",
     "select_load_method_fromavatar": "アバター",
     "select_load_method_fromfile": "ファイル",
-    "missing_script_error": "この服には存在しないComponentがあります。 この問題を解決しない場合、アバターはアップロードされない可能性があります。 もしプロジェクトにDynamic Boneがない場合、この存在しないComponentはDynamic Boneである可能性が高いです。 注意して直接除去してください。",
-    "missing_script_error_button": "存在しないComponentを全部選択",
+    "missing_script_error": "この服には存在しないコンポーネント/スクリプトがあります。 この問題を解決しない場合、アバターはアップロードされない可能性があります。 高い可能性があり、その存在しないコンポーネントはDynamic Boneである可能性があります。 留意して確認してください。",
+    "missing_script_error_button": "存在しないComponentを全部除去",
     "constraint_empty_error": "この服には異常に設定されたConstraintがあります。 この問題を解決しない場合、服を着せたときに服のボーンがすべて変な位置に移動する可能性が高いです。 Constraintを除去することをお勧めします。",
     "constraint_empty_error_button": "Constraint削除",
     "autocloset_writedefaults": "Write Defaults適用",
     "loaded_success": "設定ロード成功",
-    "saved_success": "設定保存成功"
+    "saved_success": "設定保存成功",
+    "play_mode_warning": "プレーモードが検出されました！ Cloth Utilityを使用するにはプレーモードを終了してください。",
 }
