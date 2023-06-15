@@ -202,5 +202,6 @@
     "autocloset_writedefaults": "Write Defaults 적용",
     "loaded_success": "불러오기 성공",
     "saved_success": "저장 성공",
-    "play_mode_warning": "플레이 모드가 켜져있습니다! ClothUtility를 사용하려면 플레이 모드를 종료하세요."
+    "play_mode_warning": "플레이 모드가 켜져있습니다! ClothUtility를 사용하려면 플레이 모드를 종료하세요.",
+    "system_auto_generated": "[ 시스템에 의해 자동생성된 항목 ]"
 }
