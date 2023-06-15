@@ -202,5 +202,6 @@
     "autocloset_writedefaults": "Enable Write Defaults",
     "loaded_success": "Successfully loaded",
     "saved_success": "Successfully saved",
-    "play_mode_warning": "Playmode detected! Please exit playmode to use ClothUtility."
+    "play_mode_warning": "Playmode detected! Please exit playmode to use ClothUtility.",
+    "system_auto_generated": "[ AUTO GENERATED ]"
 }
