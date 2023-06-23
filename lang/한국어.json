@@ -1,6 +1,6 @@
 {
     "": "",
-    "LANG": "3.0",
+    "LANG": "3.0 beta 1",
     "acc_toggle_button_icon": "버튼 아이콘",
     "acc_toggle_button_icon_path": "버튼 아이콘",
     "acc_toggle_button_name": "버튼 이름",
@@ -207,5 +207,6 @@
     "system_auto_generated": "[ 자동생성된 항목 ]",
     "acc_toggle_target_button": "버튼 ID",
     "acc_toggle_cloth_disabled": "옷 선택 꺼짐",
-    "acc_toggle_toggle_type_swap": "스왑"
+    "acc_toggle_toggle_type_swap": "스왑",
+    "total_physbone_count": "PhysBone 갯수: "
 }
