@@ -1,6 +1,6 @@
 {
     "": "",
-    "LANG": "3.0",
+    "LANG": "3.0 beta 1",
     "acc_toggle_button_icon": "ボタンアイコン",
     "acc_toggle_button_icon_path": "ボタンアイコン",
     "acc_toggle_button_name": "ボタン名",
@@ -207,5 +207,6 @@
     "system_auto_generated": "[ 自動生成された項目 ]",
     "acc_toggle_target_button": "ボタンID",
     "acc_toggle_cloth_disabled": "服選びなし",
-    "acc_toggle_toggle_type_swap": "Swap"
+    "acc_toggle_toggle_type_swap": "Swap",
+    "total_physbone_count": "PhysBone 個数:"
 }
