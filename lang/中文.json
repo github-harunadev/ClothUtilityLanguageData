@@ -206,5 +206,6 @@
     "system_auto_generated": "[ AUTO GENERATED ]",
     "acc_toggle_target_button": "Button ID",
     "acc_toggle_cloth_disabled": "Cloth selection disabled",
-    "acc_toggle_toggle_type_swap": "Swap"
+    "acc_toggle_toggle_type_swap": "Swap",
+    "total_physbone_count": "Total PhysBone count: "
 }
