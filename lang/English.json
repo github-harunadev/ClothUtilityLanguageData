@@ -1,6 +1,6 @@
 {
     "": "",
-    "LANG": "3.0",
+    "LANG": "3.0 beta 1",
     "acc_toggle_button_icon": "ExMenu button icon",
     "acc_toggle_button_icon_path": "ExMenu button icon path",
     "acc_toggle_button_name": "ExMenu button name",
@@ -207,5 +207,6 @@
     "system_auto_generated": "[ AUTO GENERATED ]",
     "acc_toggle_target_button": "Button ID",
     "acc_toggle_cloth_disabled": "Cloth selection disabled",
-    "acc_toggle_toggle_type_swap": "Swap"
+    "acc_toggle_toggle_type_swap": "Swap",
+    "total_physbone_count": "Total PhysBone count: "
 }
