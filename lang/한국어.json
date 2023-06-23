@@ -1,6 +1,6 @@
 {
     "": "",
-    "LANG": "2.17",
+    "LANG": "3.0",
     "acc_toggle_button_icon": "버튼 아이콘",
     "acc_toggle_button_icon_path": "버튼 아이콘",
     "acc_toggle_button_name": "버튼 이름",
@@ -204,5 +204,8 @@
     "saved_success": "저장 성공",
     "play_mode_warning": "플레이 모드가 켜져있습니다! ClothUtility를 사용하려면 플레이 모드를 종료하세요.",
     "blendshape_value_off": "쉐이프키 꺼진 값",
-    "system_auto_generated": "[ 자동생성된 항목 ]"
+    "system_auto_generated": "[ 자동생성된 항목 ]",
+    "acc_toggle_target_button": "버튼 ID",
+    "acc_toggle_cloth_disabled": "옷 선택 꺼짐",
+    "acc_toggle_toggle_type_swap": "스왑"
 }
