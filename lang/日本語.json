@@ -1,6 +1,6 @@
 {
     "": "",
-    "LANG": "2.17",
+    "LANG": "3.0",
     "acc_toggle_button_icon": "ボタンアイコン",
     "acc_toggle_button_icon_path": "ボタンアイコン",
     "acc_toggle_button_name": "ボタン名",
@@ -204,5 +204,8 @@
     "saved_success": "設定保存成功",
     "play_mode_warning": "プレーモードが検出されました！ Cloth Utilityを使用するにはプレーモードを終了してください。",
     "blendshape_value_off": "Blendshape オフ 値",
-    "system_auto_generated": "[ 自動生成された項目 ]"
+    "system_auto_generated": "[ 自動生成された項目 ]",
+    "acc_toggle_target_button": "ボタンID",
+    "acc_toggle_cloth_disabled": "服選びなし",
+    "acc_toggle_toggle_type_swap": "Swap"
 }
