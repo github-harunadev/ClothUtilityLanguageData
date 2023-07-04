@@ -208,5 +208,6 @@
     "acc_toggle_target_button": "ボタンID",
     "acc_toggle_cloth_disabled": "服選びなし",
     "acc_toggle_toggle_type_swap": "Swap",
-    "total_physbone_count": "PhysBone 個数:"
+    "total_physbone_count": "PhysBone 個数:",
+    "cloth_icon": "アイコン (自動クローゼット)"
 }
