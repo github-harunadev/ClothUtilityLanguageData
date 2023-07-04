@@ -216,5 +216,9 @@
     "select_all_physbonecollider": "すべてのPhysBoneCollider選択",
     "select_all_meshrenderer": "すべてのMeshRenderer選択",
     "select_all_skinnedmeshrenderer": "すべてのSkinnedMeshRenderer選択",
-    "select_any_constraints": "すべてのConstraint選択"
+    "select_any_constraints": "すべてのConstraint選択",
+    "select_save_method": "Select export method",
+    "select_save_method_msg": "To avatar - save config to avatar's ConfigData\nAs file - save config as file",
+    "select_save_method_toavatar": "To avatar",
+    "select_save_method_asfile": "As file",
 }
