@@ -209,5 +209,12 @@
     "acc_toggle_cloth_disabled": "옷 선택 꺼짐",
     "acc_toggle_toggle_type_swap": "스왑",
     "total_physbone_count": "PhysBone 갯수: ",
-    "cloth_icon": "아이콘 (자동옷장)"
+    "cloth_icon": "아이콘 (자동옷장)",
+    "selection_options": "Selection options",
+    "select_all_bones"; "Select all bones",
+    "select_all_physbone": "Select all PhysBone",
+    "select_all_physbonecollider": "Select all PhysBoneCollider",
+    "select_all_meshrenderer": "Select all MeshRenderer",
+    "select_all_skinnedmeshrenderer": "Select all SkinnedMeshRenderer",
+    "select_any_constraints": "Select any Constraint"
 }
