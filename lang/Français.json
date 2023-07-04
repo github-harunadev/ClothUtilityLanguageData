@@ -211,7 +211,7 @@
     "total_physbone_count": "Total PhysBone count: ",
     "cloth_icon": "Icon (for AutoCloset)",
     "selection_options": "Selection options",
-    "select_all_bones"; "Select all bones",
+    "select_all_bones": "Select all bones",
     "select_all_physbone": "Select all PhysBone",
     "select_all_physbonecollider": "Select all PhysBoneCollider",
     "select_all_meshrenderer": "Select all MeshRenderer",
