@@ -217,8 +217,8 @@
     "select_all_meshrenderer": "すべてのMeshRenderer選択",
     "select_all_skinnedmeshrenderer": "すべてのSkinnedMeshRenderer選択",
     "select_any_constraints": "すべてのConstraint選択",
-    "select_save_method": "Select export method",
-    "select_save_method_msg": "To avatar - save config to avatar's ConfigData\nAs file - save config as file",
-    "select_save_method_toavatar": "To avatar",
-    "select_save_method_asfile": "As file",
+    "select_save_method": "保存方式選択",
+    "select_save_method_msg": "アバター - 設定をアバターのConfigDataに保存します。\nファイル - 設定をファイルで保存します。",
+    "select_save_method_toavatar": "アバター",
+    "select_save_method_asfile": "ファイル",
 }
