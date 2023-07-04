@@ -217,8 +217,8 @@
     "select_all_meshrenderer": "일반 MeshRenderer 전부 선택",
     "select_all_skinnedmeshrenderer": "SkinnedMeshRenderer 전부 선택",
     "select_any_constraints": "Constraint 전부 선택",
-	"select_save_method": "Select export method",
-	"select_save_method_msg": "To avatar - save config to avatar's ConfigData\nAs file - save config as file",
-	"select_save_method_toavatar": "To avatar",
-	"select_save_method_asfile": "As file",
+    "select_save_method": "Select export method",
+    "select_save_method_msg": "To avatar - save config to avatar's ConfigData\nAs file - save config as file",
+    "select_save_method_toavatar": "To avatar",
+    "select_save_method_asfile": "As file",
 }
