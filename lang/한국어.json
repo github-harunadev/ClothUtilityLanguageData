@@ -208,5 +208,6 @@
     "acc_toggle_target_button": "버튼 ID",
     "acc_toggle_cloth_disabled": "옷 선택 꺼짐",
     "acc_toggle_toggle_type_swap": "스왑",
-    "total_physbone_count": "PhysBone 갯수: "
+    "total_physbone_count": "PhysBone 갯수: ",
+    "cloth_icon": "아이콘 (자동옷장)"
 }
