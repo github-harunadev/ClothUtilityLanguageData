@@ -220,4 +220,10 @@
     "select_save_method_msg": "To avatar - save config to avatar's ConfigData\nAs file - save config as file",
     "select_save_method_toavatar": "To avatar",
     "select_save_method_asfile": "As file",
+    "anchor_bounds_options": "Anchor & Bounds options",
+    "anchor_override": "Anchor Override",
+    "apply_anchor_override_all": "Apply Anchor Override",
+    "bounds_center": "Bounds Center",
+    "bounds_extent": "Bounds Extent",
+    "apply_bounds_all": "Apply Bounds"
 }
