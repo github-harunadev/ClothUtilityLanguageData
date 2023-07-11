@@ -227,4 +227,10 @@
     "bounds_center": "Bounds Center",
     "bounds_extent": "Bounds Extent",
     "apply_bounds_all": "Apply Bounds"
+    "anchor_bounds_options": "Anchor&Bounds 設定",
+    "anchor_override": "Anchor Override",
+    "apply_anchor_override_all": "Anchor Override 適用",
+    "bounds_center": "Bounds Center",
+    "bounds_extent": "Bounds Extent",
+    "apply_bounds_all": "Bounds 適用"
 }
