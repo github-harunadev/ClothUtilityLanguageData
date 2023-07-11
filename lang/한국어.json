@@ -221,4 +221,10 @@
     "select_save_method_msg": "아바타 - 설정을 아바타의 ConfigData에 저장합니다.\n파일 - 설정을 파일 형식으로 저장합니다.",
     "select_save_method_toavatar": "아바타",
     "select_save_method_asfile": "파일",
+    "anchor_bounds_options": "Anchor & Bounds 설정",
+    "anchor_override": "Anchor Override",
+    "apply_anchor_override_all": "Anchor Override 적용",
+    "bounds_center": "Bounds Center",
+    "bounds_extent": "Bounds Extent",
+    "apply_bounds_all": "Bounds 적용"
 }
