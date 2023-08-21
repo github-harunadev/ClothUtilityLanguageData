@@ -221,12 +221,6 @@
     "select_save_method_msg": "アバター - 設定をアバターのConfigDataに保存します。\nファイル - 設定をファイルで保存します。",
     "select_save_method_toavatar": "アバター",
     "select_save_method_asfile": "ファイル",
-    "anchor_bounds_options": "Anchor & Bounds options",
-    "anchor_override": "Anchor Override",
-    "apply_anchor_override_all": "Apply Anchor Override",
-    "bounds_center": "Bounds Center",
-    "bounds_extent": "Bounds Extent",
-    "apply_bounds_all": "Apply Bounds"
     "anchor_bounds_options": "Anchor&Bounds 設定",
     "anchor_override": "Anchor Override",
     "apply_anchor_override_all": "Anchor Override 適用",
