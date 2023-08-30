@@ -1,6 +1,6 @@
 {
     "": "",
-    "LANG": "3.1",
+    "LANG": "4.0",
     "acc_toggle_button_icon": "버튼 아이콘",
     "acc_toggle_button_icon_path": "버튼 아이콘",
     "acc_toggle_button_name": "버튼 이름",
@@ -226,5 +226,18 @@
     "apply_anchor_override_all": "Anchor Override 적용",
     "bounds_center": "Bounds Center",
     "bounds_extent": "Bounds Extent",
-    "apply_bounds_all": "Bounds 적용"
+    "apply_bounds_all": "Bounds 적용",
+    "hierarchy_information": "- 정보",
+    "hierarchy_obj_oname": "오브젝트 이름: ",
+    "hierarchy_obj_rname": "전체 이름: ",
+    "hierarchy_clothname": "옷 이름: ",
+    "hierarchy_purpose": "본 인식정보: ",
+    "hierarchy_purposeid": "본 인식 ID: ",
+    "hierarchy_copymenu": "- 복사",
+    "hierarchy_copy_obj_oname": "오브젝트 이름",
+    "hierarchy_copy_obj_path": "오브젝트 경로",
+    "hierarchy_copy_obj_instanceid": "오브젝트 Instance ID",
+    "hierarchy_selectionmenu": "- 찾기",
+    "hierarchy_select_smr": "모든 SkinnedMeshRenderer",
+    "hierarchy_select_maincloth_obj": "옷 GameObject"
 }
