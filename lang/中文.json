@@ -225,5 +225,18 @@
     "apply_anchor_override_all": "Apply Anchor Override",
     "bounds_center": "Bounds Center",
     "bounds_extent": "Bounds Extent",
-    "apply_bounds_all": "Apply Bounds"
+    "apply_bounds_all": "Apply Bounds",
+    "hierarchy_information": "- Information",
+    "hierarchy_obj_oname": "Name: ",
+    "hierarchy_obj_rname": "Full name: ",
+    "hierarchy_clothname": "Cloth name: ",
+    "hierarchy_purpose": "Purpose: ",
+    "hierarchy_purposeid": "Purpose ID: ",
+    "hierarchy_copymenu": "- Copy (Click to copy)",
+    "hierarchy_copy_obj_oname": "Object name",
+    "hierarchy_copy_obj_path": "Object path",
+    "hierarchy_copy_obj_instanceid": "Object instance ID",
+    "hierarchy_selectionmenu": "- Find",
+    "hierarchy_select_smr": "All SkinnedMeshRenderer",
+    "hierarchy_select_maincloth_obj": "Main cloth GameObject"
 }
