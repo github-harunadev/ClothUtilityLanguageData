@@ -1,6 +1,6 @@
 {
     "": "",
-    "LANG": "3.1",
+    "LANG": "4.0",
     "acc_toggle_button_icon": "ボタンアイコン",
     "acc_toggle_button_icon_path": "ボタンアイコン",
     "acc_toggle_button_name": "ボタン名",
@@ -226,5 +226,18 @@
     "apply_anchor_override_all": "Anchor Override 適用",
     "bounds_center": "Bounds Center",
     "bounds_extent": "Bounds Extent",
-    "apply_bounds_all": "Bounds 適用"
+    "apply_bounds_all": "Bounds 適用",
+    "hierarchy_information": "- 情報",
+    "hierarchy_obj_oname": "オブジェクト名: ",
+    "hierarchy_obj_rname": "フルネーム: ",
+    "hierarchy_clothname": "服の名: ",
+    "hierarchy_purpose": "ボーン認識情報: ",
+    "hierarchy_purposeid": "ボーン認識ID: ",
+    "hierarchy_copymenu": "- コピー（クリックしてコピーします）",
+    "hierarchy_copy_obj_oname": "オブジェクト名",
+    "hierarchy_copy_obj_path": "オブジェクト経路",
+    "hierarchy_copy_obj_instanceid": "オブジェクト Instance ID",
+    "hierarchy_selectionmenu": "- 検索",
+    "hierarchy_select_smr": "すべてのSkinnedMeshRenderer",
+    "hierarchy_select_maincloth_obj": "服GameObject"
 }
