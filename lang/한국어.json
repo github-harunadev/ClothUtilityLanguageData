@@ -233,7 +233,7 @@
     "hierarchy_clothname": "옷 이름: ",
     "hierarchy_purpose": "본 인식정보: ",
     "hierarchy_purposeid": "본 인식 ID: ",
-    "hierarchy_copymenu": "- 복사",
+    "hierarchy_copymenu": "- 복사 (클릭해서 복사합니다)",
     "hierarchy_copy_obj_oname": "오브젝트 이름",
     "hierarchy_copy_obj_path": "오브젝트 경로",
     "hierarchy_copy_obj_instanceid": "오브젝트 Instance ID",
